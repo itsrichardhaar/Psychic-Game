@@ -1,0 +1,56 @@
+/**
+*Game CSS
+**/
+
+
+
+h1{
+	background-color: orange;
+	color: white;
+	padding: 10px;
+   
+    
+	border: solid 1px #ddd;
+}
+  
+  
+
+#instructions {
+	background-color: white;
+	width: 50%;
+	padding: 15px;
+	
+	
+}
+
+#randomNumber {
+	background-color: green;
+	display: inline-block;
+	padding: 10px;
+	border: solid 1px #ddd
+}
+
+#scoreboard {
+	background-color: #03A9F4;
+	display: inline-block;
+	padding: 15px 20px 10px 15px;
+	border: solid 1px #ddd
+
+}
+
+#crystals {
+	margin-top: 15px;
+	margin-bottom:26px;
+
+}
+
+
+
+#finalScore {
+	margin-bottom: 50px;
+}
+
+
+
+  
+  
